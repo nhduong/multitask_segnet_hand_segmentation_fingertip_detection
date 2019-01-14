@@ -1,0 +1,15 @@
+#### Hand Segmentation and Fingertip Tracking from Depth Camera Images Using Deep Convolutional Neural Network and Multi-task SegNet
+Duong Nguyen and Soo-Hyung Kim
+Chonnam National University
+https://arxiv.org/abs/1901.03465
+
+### Testing Environment
+- Kinect V2
+- Windows 10 x64
+- Anaconda 4.5, Python 3.5
+- Tensorflow 1.4.0
+- Keras 2.0.6
+- CUDA 8.0
+- cuDNN v5
+- OpenCV 3 for Python
+(see this installation guide https://github.com/nhduong/intro_deep#-environment-setup-1-with-gpus)
