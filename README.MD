@@ -19,3 +19,9 @@ https://arxiv.org/abs/1901.03465
 
 ### System Overview
 ![](https://raw.githubusercontent.com/nhduong/multitask_segnet_hand_segmentation_fingertip_detection/master/imgs/overview.png)
+
+### Visual Results
+![](https://raw.githubusercontent.com/nhduong/multitask_segnet_hand_segmentation_fingertip_detection/master/imgs/selected_results.png)
+
+### Source Code and Usage
+*comming soon*
