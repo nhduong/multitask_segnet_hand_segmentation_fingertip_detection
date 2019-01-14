@@ -1,6 +1,6 @@
 #### Hand Segmentation and Fingertip Tracking from Depth Camera Images Using Deep Convolutional Neural Network and Multi-task SegNet
-Duong Nguyen and Soo-Hyung Kim
-Chonnam National University
+Duong Nguyen and Soo-Hyung Kim  
+Chonnam National University 
 https://arxiv.org/abs/1901.03465
 
 ### Testing Environment
