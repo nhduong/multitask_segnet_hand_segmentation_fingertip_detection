@@ -5,8 +5,11 @@ https://arxiv.org/abs/1901.03465
 
 ### Testing Environment
 - Kinect V2
+- GTX 1080
 - Windows 10 x64
 - Anaconda 4.5, Python 3.5
+- Kinect for Windows SDK v2
+- PyKinect2 (https://github.com/Kinect/PyKinect2)
 - Tensorflow 1.4.0
 - Keras 2.0.6
 - CUDA 8.0
