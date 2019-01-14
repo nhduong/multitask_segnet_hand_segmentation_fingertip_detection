@@ -16,3 +16,6 @@ https://arxiv.org/abs/1901.03465
 - cuDNN v5
 - OpenCV 3 for Python  
 (see this installation guide https://github.com/nhduong/intro_deep#-environment-setup-1-with-gpus)
+
+### System Overview
+![](https://raw.githubusercontent.com/nhduong/multitask_segnet_hand_segmentation_fingertip_detection/master/imgs/overview.png)
