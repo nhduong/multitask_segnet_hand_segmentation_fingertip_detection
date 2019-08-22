@@ -24,10 +24,10 @@ https://arxiv.org/abs/1901.03465
 ![](https://raw.githubusercontent.com/nhduong/multitask_segnet_hand_segmentation_fingertip_detection/master/imgs/selected_results.png)
 
 ### Real-time Demon
-![](https://youtu.be/QzFXKvfItRM)
-![](https://youtu.be/-Y5Ejw9VYP4)
-![](https://youtu.be/Fb_vsMb9W4s)
-![](https://youtu.be/BFUemJFOiW0)
+[](https://youtu.be/QzFXKvfItRM)
+[](https://youtu.be/-Y5Ejw9VYP4)
+[](https://youtu.be/Fb_vsMb9W4s)
+[](https://youtu.be/BFUemJFOiW0)
 
 ### Source Code and Usage
 *coming soon*
