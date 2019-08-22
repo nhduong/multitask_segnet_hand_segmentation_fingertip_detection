@@ -24,10 +24,10 @@ https://arxiv.org/abs/1901.03465
 ![](https://raw.githubusercontent.com/nhduong/multitask_segnet_hand_segmentation_fingertip_detection/master/imgs/selected_results.png)
 
 ### Real-time Demon
-[![Hand detection and segmentation + Fingertip detection #1](https://img.youtube.com/vi/QzFXKvfItRM/0.jpg)](https://www.youtube.com/watch?v=QzFXKvfItRM)
-[![Hand detection and segmentation + Fingertip detection #2](https://img.youtube.com/vi/-Y5Ejw9VYP4/0.jpg)](https://www.youtube.com/watch?v=-Y5Ejw9VYP4)
-[![Hand detection and segmentation + Fingertip detection #3](https://img.youtube.com/vi/Fb_vsMb9W4s/0.jpg)](https://www.youtube.com/watch?v=Fb_vsMb9W4s)
-[![Hand detection and segmentation + Fingertip detection + Hand gesture recognition](https://img.youtube.com/vi/BFUemJFOiW0/0.jpg)](https://www.youtube.com/watch?v=BFUemJFOiW0)
+[Hand detection and segmentation + Fingertip detection #1](https://www.youtube.com/watch?v=QzFXKvfItRM)
+[Hand detection and segmentation + Fingertip detection #2](https://www.youtube.com/watch?v=-Y5Ejw9VYP4)
+[Hand detection and segmentation + Fingertip detection #3](https://www.youtube.com/watch?v=Fb_vsMb9W4s)
+[Hand detection and segmentation + Fingertip detection + Hand gesture recognition](https://www.youtube.com/watch?v=BFUemJFOiW0)
 
 ### Source Code and Usage
 *coming soon*
